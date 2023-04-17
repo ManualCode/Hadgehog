@@ -21,7 +21,7 @@ namespace Hedgehog
         }
 
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
-        public bool Keypress(Keys k) { if (kb.IsKeyDown(k) && okb.IsKeyUp(k)) return true; else return false; }
+        public bool KeyPress(Keys k) { if (kb.IsKeyDown(k) && okb.IsKeyUp(k)) return true; else return false; }
 
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
         public bool KeyDown(Keys k) { if (kb.IsKeyDown(k)) return true; else return false; }

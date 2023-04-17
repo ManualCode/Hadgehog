@@ -35,5 +35,6 @@ C:\Users\kiril\OneDrive\Desktop\Kirill\MyGame\hedgehog\Hedgehog\obj\Debug\net6.0
 C:\Users\kiril\OneDrive\Desktop\Kirill\MyGame\hedgehog\Hedgehog\obj\Debug\net6.0-windows\Hedgehog.pdb
 C:\Users\kiril\OneDrive\Desktop\Kirill\MyGame\hedgehog\Hedgehog\obj\Debug\net6.0-windows\Hedgehog.genruntimeconfig.cache
 C:\Users\kiril\OneDrive\Desktop\Kirill\MyGame\hedgehog\Hedgehog\obj\Debug\net6.0-windows\ref\Hedgehog.dll
+C:\Users\kiril\OneDrive\Desktop\Kirill\MyGame\hedgehog\Hedgehog\bin\Debug\net6.0-windows\Content\BackgroundV2.xnb
 C:\Users\kiril\OneDrive\Desktop\Kirill\MyGame\hedgehog\Hedgehog\bin\Debug\net6.0-windows\Content\midBackground.xnb
-C:\Users\kiril\OneDrive\Desktop\Kirill\MyGame\hedgehog\Hedgehog\bin\Debug\net6.0-windows\Content\back.xnb
+C:\Users\kiril\OneDrive\Desktop\Kirill\MyGame\hedgehog\Hedgehog\bin\Debug\net6.0-windows\Content\SPRITEPNG.xnb
